@@ -27,8 +27,6 @@ This is my **personal portfolio** showcasing my projects, technical skills, educ
 
 ![Portfolio Preview](portfolio.jpg)
 
-> 📝 Note: If you're viewing this from GitHub, make sure the `portfolio.jpg` image is uploaded to your repo for the preview to work.
-
 ---
 
 ## 📬 Contact
